@@ -1,0 +1,53 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Produto 1",
+      "preco": 100,
+      "marca": "Marca 1",
+      "dataValidade": "2025-06-20"
+    },
+    {
+      "id": "2",
+      "nome": "Produto 2",
+      "preco": 200,
+      "marca": "Marca 1",
+      "dataValidade": "2025-06-20"
+    },
+    {
+      "id": "3",
+      "nome": "Produto 3",
+      "preco": 300,
+      "marca": "Marca 1",
+      "dataValidade": "2025-06-20"
+    },
+    {
+      "id": "4",
+      "nome": "Produto 4",
+      "preco": 400,
+      "marca": "Marca 2",
+      "dataValidade": "2025-06-20"
+    },
+    {
+      "id": "5",
+      "nome": "Produto 5",
+      "preco": 570,
+      "marca": "Marca 2",
+      "dataValidade": "2025-07-20"
+    },
+    {
+      "nome": "Produto 6",
+      "preco": 650,
+      "marca": "Marca 3",
+      "dataValidade": "2025-06-20",
+      "id": "a2cf"
+    },
+    {
+      "id": "38f4",
+      "nome": "Produto 7",
+      "preco": 700,
+      "marca": "Marca 3",
+      "dataValidade": "2026-01-20"
+    }
+  ]
+}
