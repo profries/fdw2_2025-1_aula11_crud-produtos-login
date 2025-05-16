@@ -13,6 +13,7 @@ import { MoedaPipe } from './moeda.pipe';
 import { FiltroPesquisaPipe } from './filtro-pesquisa.pipe';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { provideHttpClient } from '@angular/common/http';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { provideHttpClient } from '@angular/common/http';
     ListCardProdutosComponent,
     MoedaPipe,
     FiltroPesquisaPipe,
-    PageNotFoundComponent
+    PageNotFoundComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

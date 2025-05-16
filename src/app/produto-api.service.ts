@@ -3,7 +3,7 @@ import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
 import { Produto } from './produto';
 
-const BASE_API = 'http://localhost:3000/produtos';
+const BASE_API = 'http://localhost:3000/api/produtos';
 const httpOptions = {
   headers: new HttpHeaders({
     "Content-Type":"application/json"  
