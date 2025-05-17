@@ -34,4 +34,9 @@ export class AuthService {
       catchError(error => of(false))
     );
   }
+
+  estaLogado():boolean {
+    const token = sessionStorage.getItem("token");
+    return token!=undefined && token!=null;
+  }
 }
